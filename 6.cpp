@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
     
+// Print the quadrant of a given point.
+
 int main(){
 int x,y;
 

@@ -1,3 +1,5 @@
+// Print the number of days in a given month and given year.
+
 #include<iostream>
 using namespace std;
     

@@ -1,3 +1,5 @@
+// Print a character is vowel or consonant.
+
 #include<iostream>
 using namespace std;
     
